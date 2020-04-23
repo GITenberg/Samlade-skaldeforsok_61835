@@ -1,0 +1,25 @@
+_repo: Samlade-skaldeforsok_61835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomasson, Pehr
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '36449'
+    url: http://www.gutenberg.org/2009/agents/36449
+    wikipedia: https://sv.wikipedia.org/wiki/Pehr_Thomasson
+description: ''
+gutenberg_issued: '2020-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61835'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish poetry'
+- GITenberg
+title: Samlade skaldeförsök
+url: http://www.gutenberg.org/ebooks/61835
