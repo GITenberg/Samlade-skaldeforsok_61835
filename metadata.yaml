@@ -1,5 +1,8 @@
 _repo: Samlade-skaldeforsok_61835
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thomasson, Pehr
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36449
     wikipedia: https://sv.wikipedia.org/wiki/Pehr_Thomasson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61835#Samlade-skaldeforsok
 gutenberg_issued: '2020-04-14'
 gutenberg_type: Text
 identifiers:
